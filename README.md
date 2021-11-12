@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NegarJavidihagh
+- 👀 I’m interested in Data Sceince 
+- 🌱 I’m currently Master of Industrial Engineering student at Amir Kabir university of tecnology
+- 💞️ I’m looking to collaborate on machine learning
+- 📫 How to reach me https://zil.ink/negarjavidihagh
